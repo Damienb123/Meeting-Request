@@ -4,9 +4,9 @@
 
 1. [Overview](#Overview)
 2. [API Endpoints](#API-Endpoints)
-  - Schedule a Meeting
+    - Schedule a Meeting
 3. [Request Body Format](#Request-Body-Format)
-  - Example Request
+    - Example Request
 4. [Setup Instructions](#Setup-Instructions)
 5. [Example Usage](#Example-Usage)
 6. [Reference](#Reference)
